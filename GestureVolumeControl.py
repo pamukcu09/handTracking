@@ -69,3 +69,5 @@ while True:
 
     cv2.imshow("Img", img)
     cv2.waitKey(1)
+
+    #Burada da yeni kodlar var.

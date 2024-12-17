@@ -63,4 +63,4 @@ while True:
 
     cv2.imshow("Image", img)
     cv2.waitKey(1)
-    #Buraya yeni kodlar ekledim.Buraya bir daha bir şeyler ekledim.
+    #Buraya yeni kodlar ekledim.Buraya bir daha bir şeyler ekledim. Conflict çıkarmaya çalışıyorum.
